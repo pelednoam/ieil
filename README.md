@@ -1,7 +1,8 @@
 # IEIL
 Invasive Electrodes Identification and Labeling
 
-[![DOI](https://zenodo.org/badge/43089233.svg)](https://zenodo.org/badge/latestdoi/43089233)
+[![DOI](https://zenodo.org/badge/113069975.svg)](https://zenodo.org/badge/latestdoi/113069975)
+
 
 
 # Electrode Labelling Algorithm. 
