@@ -1,6 +1,5 @@
 # Invasive Electrodes Identification and Labeling
 <img src="https://user-images.githubusercontent.com/1643819/33784517-2d0ba35c-dc2f-11e7-9136-a4290882a79f.png">
-<img src="https://user-images.githubusercontent.com/1643819/33784824-4f82fd80-dc30-11e7-9528-de12de5f339b.png">
 <img src="https://user-images.githubusercontent.com/1643819/33784886-91013a7e-dc30-11e7-946a-a1a954733667.png">
 
 Currently, the implementation is scattered over several repositories:
