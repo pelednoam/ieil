@@ -3,7 +3,7 @@
 
 [![DOI](https://zenodo.org/badge/113069975.svg)](https://zenodo.org/badge/latestdoi/113069975)
 
-Currently, the implementation is scattered in several repositories:
+Currently, the implementation is scattered over several repositories:
 1) Grids and stips electrodes identification and labeling: 
 https://github.com/aestrivex/ielu
 2) Depth electrodes identification and labeling: 
