@@ -8,7 +8,9 @@ Currently, the implementation is scattered over several repositories:
 https://github.com/aestrivex/ielu
 2) Depth electrodes identification and labeling: 
 https://github.com/pelednoam/mmvt/tree/master/src/misc/dell
-3) Visualization:
+3) Electrodes sources identification:
+https://github.com/pelednoam/electrodes_rois
+4) Visualization:
 https://github.com/pelednoam/mmvt
 
 # Electrode Labelling Algorithm. 
