@@ -1,5 +1,5 @@
-# IEIL
-Invasive Electrodes Identification and Labeling
+# Invasive Electrodes Identification and Labeling
+<img src="https://user-images.githubusercontent.com/1643819/33784517-2d0ba35c-dc2f-11e7-9136-a4290882a79f.png">
 
 [![DOI](https://zenodo.org/badge/113069975.svg)](https://zenodo.org/badge/latestdoi/113069975)
 
